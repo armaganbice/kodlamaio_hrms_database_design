@@ -1,5 +1,7 @@
 # kodlamaio_hmrs_database_design
-Engin Demiroğ hocamın anlattığı ders'te öğretilen tam anlamı ile SOLID prensiplerine göre VeriTabanı (Database) oluşturma yapıldı.  MS-SQL Server 2019 -SQL Server Management toolu kullanıldı. Tüm tablolar oluşturulduktan sonra söylenen alanlara Unique(tekil) indeksler tanımlanarak  aynı verilerden oluşum engellendi.
+Engin Demiroğ hocamın anlattığı ders'te öğretilen tam anlamı ile SOLID prensiplerine göre VeriTabanı (Database) oluşturma yapıldı. 
+MS-SQL Server 2019 -SQL Server Management toolu kullanıldı. 
+Tüm tablolar oluşturulduktan sonra söylenen alanlara Unique(tekil) indeksler tanımlanarak  aynı verilerden oluşum engellendi.
 Users  (Base-temel) Tablo olarak yaratıldı.
 JobSeekers - İş Arayanlar 
 Employers   - İş verenler
